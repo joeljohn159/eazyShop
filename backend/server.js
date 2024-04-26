@@ -13,6 +13,12 @@ const cors = require('cors');
 const uploadRoutes = require('./routes/uploadRoutes.js')
 
 
+// console.log("********************************************************************")
+// console.log(path.join(__dirname, '../frontend/dist'));
+// console.log(path.resolve(__dirname,'..', 'frontend','dist','index.html'))
+// console.log("********************************************************************")
+
+
 connectDB(); //Connect to Mongo DB
 const app = express();
 
@@ -66,10 +72,10 @@ const __dir_name = path.resolve();
 app.use('/uploads', express.static(path.join(__dir_name,'/uploads')))
 
 if(process.env.NODE_ENV === 'production'){
-    app.use(express.static(path.join(__dirname, '/frontend/dist')))
+    app.use(express.static(path.join(__dirname, '../frontend/dist')))
 
     app.get('*',(req,res)=>{
-        res.sendFile(path.resolve(__dirname, 'frontend','dist','index.html'))
+        res.sendFile(path.resolve(__dirname,'..', 'frontend','dist','index.html'))
     })
 }else{
     app.get('/',(req,res)=>{
