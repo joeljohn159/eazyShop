@@ -31,16 +31,11 @@ eazyShop is a fully responsive and optimized eCommerce platform built using mode
 
 https://www.linkedin.com/posts/joel-john-9b9348200_mern-reactjs-javascript-activity-7189820037950586881-OIMR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNO450BWPjgAAxXpolrDfSD1CwlyAhJW-o
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/0971a127-3cf1-4ed9-b422-3515ec8b8134" width="300">
-  <img src="https://github.com/user-attachments/assets/0504fe85-1723-47f1-8c26-99caf6ad51dc/1714186675311" width="300">
-  <img src="https://github.com/user-attachments/assets/c4118aba-b246-42c5-9d4b-91c5a52fd277/1714186675146" width="300">
-  <img src="https://github.com/user-attachments/assets/78f19fe0-f97c-495f-957f-9459479976ab/1714186676224" width="300">
-  <img src="https://github.com/user-attachments/assets/09d262d3-c7bf-46b6-b8df-e590d4ae97dd/1714186675117" width="300">
-</p>
-
-
-![1714186675311](https://github.com/user-attachments/assets/0971a127-3cf1-4ed9-b422-3515ec8b8134)
+![1714186675311](https://github.com/user-attachments/assets/e51b479b-349e-404a-8e0b-4f7a592e4733)
+![1714186675146](https://github.com/user-attachments/assets/f2b21ff4-c4b4-4b8f-934c-d0002de943bc)
+![1714186676224](https://github.com/user-attachments/assets/cb885419-9965-4753-b453-0a38a4ba0873)
+![1714186675117](https://github.com/user-attachments/assets/a49b8c15-e16d-497f-85db-835363c2ec3a)
+![1714186675345](https://github.com/user-attachments/assets/15006c52-33b0-499f-9ccb-686c145c09cf)
 
 
 ## 🔧 Getting Started
