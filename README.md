@@ -42,6 +42,7 @@ https://www.linkedin.com/posts/joel-john-9b9348200_mern-reactjs-javascript-activ
 ### Installation Steps
 
 # Clone the repository
+```
 git clone https://github.com/joeljohn159/eazyShop.git
 cd eazyShop
 
@@ -52,5 +53,5 @@ npm install
 # Install client dependencies
 cd ../frontend
 npm install
-
+```
 run the application
